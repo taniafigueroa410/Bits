@@ -1,5 +1,5 @@
 // Sube el número de versión cada vez que cambies index.html para que el iPhone baje la nueva
-const CACHE = 'platoypaso-v2';
+const CACHE = 'bits-v3';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-180.png', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
